@@ -2,20 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://USERNAME.github.io/PROJECT/posts/hello-world/</loc>
-    <lastmod>2022-01-27T15:42:23+09:00</lastmod>
+    <loc>https://nayuta-ai.github.io/hugo/categories/</loc>
   </url><url>
-    <loc>https://USERNAME.github.io/PROJECT/</loc>
-    <lastmod>2022-01-27T15:42:23+09:00</lastmod>
+    <loc>https://nayuta-ai.github.io/hugo/</loc>
   </url><url>
-    <loc>https://USERNAME.github.io/PROJECT/posts/</loc>
-    <lastmod>2022-01-27T15:42:23+09:00</lastmod>
-  </url><url>
-    <loc>https://USERNAME.github.io/PROJECT/posts/my-first-post/</loc>
-    <lastmod>2022-01-27T13:59:55+09:00</lastmod>
-  </url><url>
-    <loc>https://USERNAME.github.io/PROJECT/categories/</loc>
-  </url><url>
-    <loc>https://USERNAME.github.io/PROJECT/tags/</loc>
+    <loc>https://nayuta-ai.github.io/hugo/tags/</loc>
   </url>
 </urlset>

@@ -1,4 +1,4 @@
-baseURL = "https://USERNAME.github.io/PROJECT/"
+baseURL = "https://nayuta-ai.github.io/hugo/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
